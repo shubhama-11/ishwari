@@ -32,6 +32,7 @@ const HeroSection = () => {
     { href: "hr-services", label: "HR Services", icon: Users },
     { href: "jobs", label: "Apply for Jobs", icon: Briefcase },
     { href: "contact", label: "Contact", icon: Mail },
+    { href: "contact", label: "Contact", icon: Mail },
   ];
 
   return (
@@ -209,3 +210,4 @@ const HeroSection = () => {
 };
 
 export default HeroSection;
+
