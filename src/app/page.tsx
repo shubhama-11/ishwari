@@ -36,6 +36,7 @@ const HomePage = () => {
     { href: "#solutions", label: "AI Solutions", icon: BrainCircuit },
     { href: "#portfolio", label: "Our Work", icon: LayoutGrid },
     { href: "#careers", label: "Careers", icon: Briefcase },
+     { href: "https://www.google.com", label: "Mines and Minerals", icon: ExternalLink  },
     { href: "#contact", label: "Contact", icon: Mail },
   ];
 
